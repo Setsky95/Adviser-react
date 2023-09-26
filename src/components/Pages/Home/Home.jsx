@@ -27,7 +27,7 @@ const Home = () => {
     <>
 
     <div>
-      <h1>¡Hola! {userName} </h1>
+      <h1>¡Hola {userName}! </h1>
       <h2>¿Listo para comenzar? </h2></div>
     <div>
     <div style={{ marginTop: "20px" }}>
